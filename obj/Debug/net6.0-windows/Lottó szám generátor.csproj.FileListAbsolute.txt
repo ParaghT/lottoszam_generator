@@ -1,0 +1,17 @@
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\bin\Debug\net6.0-windows\Lottó szám generátor.exe
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\bin\Debug\net6.0-windows\Lottó szám generátor.deps.json
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\bin\Debug\net6.0-windows\Lottó szám generátor.runtimeconfig.json
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\bin\Debug\net6.0-windows\Lottó szám generátor.dll
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\bin\Debug\net6.0-windows\Lottó szám generátor.pdb
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\obj\Debug\net6.0-windows\Lottó szám generátor.csproj.AssemblyReference.cache
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\obj\Debug\net6.0-windows\Lottó_szám_generátor.Form1.resources
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\obj\Debug\net6.0-windows\Lottó szám generátor.csproj.GenerateResource.cache
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\obj\Debug\net6.0-windows\Lottó szám generátor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\obj\Debug\net6.0-windows\Lottó szám generátor.AssemblyInfoInputs.cache
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\obj\Debug\net6.0-windows\Lottó szám generátor.AssemblyInfo.cs
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\obj\Debug\net6.0-windows\Lottó szám generátor.csproj.CoreCompileInputs.cache
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\obj\Debug\net6.0-windows\Lottó szám generátor.dll
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\obj\Debug\net6.0-windows\refint\Lottó szám generátor.dll
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\obj\Debug\net6.0-windows\Lottó szám generátor.pdb
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\obj\Debug\net6.0-windows\Lottó szám generátor.genruntimeconfig.cache
+C:\Users\parag\OneDrive\Asztali gép\c# projects\Lottó szám generátor\Lottó szám generátor\obj\Debug\net6.0-windows\ref\Lottó szám generátor.dll
